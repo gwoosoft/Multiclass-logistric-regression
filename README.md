@@ -1,6 +1,6 @@
 # Multiclass-logistric-regression
 
-Suprisingly there was not many explanations available when it comes to multiclass logistic regression how to implement it efficently. 
+Suprisingly there are not many explanations available when it comes to multiclass logistic regression how to implement it efficently. 
 
 I tried two different datasets and run with library multiclass logistic regression and one I made it from scratch
 
